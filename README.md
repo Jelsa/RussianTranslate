@@ -1,5 +1,5 @@
-### Наш перевод добавили на официальную страницу перевода Tree of Savior GitHub - https://github.com/Treeofsavior
-### Не оставляйте запросы на добавление перевода(переводим по ссылку выше)
+### Наш перевод добавили на официальную страницу перевода Tree of Savior GitHub  https://github.com/Treeofsavior
+### ВНИМАНИЕ! Дальше переводим только по ссылке: https://github.com/Treeofsavior/RussianTranslation
 
 # Tree-of-Savior-Russian-Translate
 Данный перевод не является официальным. Перевод осуществляется общими усилиями русскоязычной группы Tree of Savior (Project R1) https://vk.com/treeofsavior а также любым желающим. Все переведенное будет использоваться в Русификаторе от Tree of Savior (Project R1) который уже создан и будет распространяться абсолютно бесплатно.
